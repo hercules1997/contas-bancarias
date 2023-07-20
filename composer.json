@@ -1,0 +1,16 @@
+{
+    "name": "contas/bancarias",
+    "description": "Projeto utilizado no curso de OO com PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hércuels Chaves",
+            "email": "hercules.chaves.andrade@gmail.com"
+        }
+    ],
+    "require": {}
+}
